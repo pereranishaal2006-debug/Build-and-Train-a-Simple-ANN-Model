@@ -19,3 +19,5 @@ Ann model architecture: – You can have the ANN with 2 hidden layer
 Compile the model 
 Fit, train the model for 100 epoch with batch size of 32
 Save the weights file.
+
+Run the project here:https://colab.research.google.com/drive/1TQ2g2vSgP55jB7LlAOeXkQMWltSkzklz?usp=sharing
